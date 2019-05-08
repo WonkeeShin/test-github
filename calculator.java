@@ -10,7 +10,7 @@ public class Calculator {
     return a + b;
   }
 
-  private static int minus(int a, int b) {
-    return a - b;
+  private static int multiply(int a, int b) {
+    return a * b;
 
 }
